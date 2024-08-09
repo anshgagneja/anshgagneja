@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ansh Gagneja</h1>
 <h3 align="center">Engineering Student @ Manipal Institute of Technology | Flutter Developer | Crafting Mobile Apps & Solving Problems with DSA</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anshgagneja&label=Profile%20views&color=0e75b6&style=flat" alt="anshgagneja" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshgagneja" alt="anshgagneja" /></a> </p>
+
 - 🔭 I’m currently working on [MinglEve](https://github.com/anshgagneja/MinglEve)
 
 - 🌱 I’m currently learning **advanced concepts in Flutter to enhance my app development skills, as well as diving deeper into Data Structures and Algorithms (DSA) to strengthen my problem-solving abilities.**
@@ -18,8 +22,6 @@
 <a href="https://twitter.com/anshgagneja1614" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anshgagneja1614" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ansh-gagneja-13943a24b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ansh-gagneja-13943a24b" height="30" width="40" /></a>
 <a href="https://instagram.com/ansh.gagneja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ansh.gagneja" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anshgagneja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anshgagneja" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/anshgagniwzp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anshgagniwzp" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
