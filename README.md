@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ansh Gagneja</h1>
 <h3 align="center">Engineering Student @ Manipal Institute of Technology | Flutter Developer | Crafting Mobile Apps & Solving Problems with DSA</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshgagneja" alt="anshgagneja" /></a> </p>
-
 - 🔭 I’m currently working on [MinglEve](https://github.com/anshgagneja/MinglEve)
 
 - 🌱 I’m currently learning **advanced concepts in Flutter to enhance my app development skills, as well as diving deeper into Data Structures and Algorithms (DSA) to strengthen my problem-solving abilities.**
