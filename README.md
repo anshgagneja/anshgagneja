@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshgagneja" alt="anshgagneja" /></a> </p>
 
-- 🔭 I’m currently working on [MinglEve](https://github.com/anshgagneja/MinglEve)
+- 🔭 I’m currently working on [Carezy](https://github.com/anshgagneja/Carezy)
 
 - 🌱 I’m currently learning **advanced concepts in Flutter to enhance my app development skills, as well as diving deeper into Data Structures and Algorithms (DSA) to strengthen my problem-solving abilities.**
 
